@@ -36,5 +36,12 @@ Al finalizar, el programa muestra:
 
 La cantidad de intentos realizados
 El tiempo total de ejecución
+ejemplo de salida "contraseña encontrada intentos:  25249
+el tiempo fue:  1774558213.8619385"
+
+Reflexión: ¿qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?
+en mi codigo no sera optimo debido a que se tendria que crear un bucle por cada caso siendo asi mas largo de 8 bucles entonces no seria optimo y tendria que buscar una forma de hacer un "caso general" para que el codigo sea optimo y mas veloz
+
+
 
 
